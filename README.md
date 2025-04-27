@@ -50,3 +50,4 @@ npm start
 
 A partir de là, vous pouvez ouvrir les fichiez html localement depuis vos fichiers ou bien avec l'extension LiveServer.
 Bonne navigation !
+
